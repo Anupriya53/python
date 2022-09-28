@@ -16,4 +16,3 @@ print(a[:])
 s='hello'
 print(s.replace('e','E'))
 
-
