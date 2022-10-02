@@ -1,0 +1,10 @@
+q=[] # implementing Queue using List :
+q.append(50)
+q.append(80)
+q.append(250)
+q.append(320)
+print("Initial Queue is:",q)
+print(q.pop(0))
+print(q.pop(0))
+print(q.pop(0))
+print("After Removing elements:",q)
